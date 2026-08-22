@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/🇦🇪_UAE_Ready-1E293B?style=for-the-badge&labelColor=0F172A&color=10B981" alt="UAE Ready" />
 </p>
 
-<!-- Dynamic Subtitle Banner -->
+<!-- Dynamic Animated Subtitle Banner -->
 <a href="https://github.com/Sufiyanahmad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Architect+%7C+PHP+%26+Python;Smart+Contracts+%26+Blockchain+Verification;Enterprise+Ledger+%26+Operations+Engines" alt="Typing SVG" />
 </a>
@@ -16,27 +16,27 @@
 
 ---
 
-### 📂 SYSTEM ARCHITECTURE & PROJECT REPOSITORY DIRECTORY
+### 📊 PROJECTS ARCHITECTURE & PERFORMANCE DASHBOARD
 
-> 📌 *Overview of core repositories, architecture classification, and build status:*
+> 📌 *High-level overview of core engineering domains, system architectures, and execution scope:*
 
-| 📁 Repository | 🏗️ Architecture / Domain | 🛠️ Tech Stack | 📊 Status | 🔗 Navigation |
-| :--- | :--- | :--- | :--- | :--- |
-| **SmartCertify** | Decentralized Certificate Verification | `Solidity` `Web3.py` `Python` | `Active / Research` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/SmartCertify) |
-| **RENTCOM** | Real Estate & Commercial Operations Engine | `PHP` `MySQL` `JavaScript` | `Production Ready` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/RENTCOM) |
-| **Ether-AI** | Intelligent Blockchain Agents & ML Pipeline | `Python` `AI/ML` `Data Models` | `Active Build` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/Ether-AI) |
-| **The-Ether** | EVM Protocols & Smart Contract Frameworks | `Solidity` `Ethereum` `Web3` | `Core Architecture` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/The-Ether) |
+| 🛠️ Domain & System | 🏗️ Architecture Scope | ⚙️ Primary Stack | 📈 Health / Status |
+| :--- | :--- | :--- | :--- |
+| **Decentralized Verification** | Cryptographic Ledger & Smart Certificate Validation | `Solidity` `Web3.py` `Python` | 🟢 `Verified & Stable` |
+| **Enterprise Management Engine** | Operational Workflows, Ledgering & Relational Stores | `PHP` `MySQL` `JavaScript` | 🟢 `Production Grade` |
+| **Intelligent Data Pipeline** | Machine Learning Models & Automated Blockchain Agents | `Python` `AI/ML` `Data Models` | 🟡 `Active Development` |
+| **EVM Protocol Layer** | Smart Contract Security & Gas-Optimized State logic | `Solidity` `Ethereum` `Web3.js` | 🟢 `Core Architecture` |
 
 ---
 
-### ⚡ TECH STACK & CAPABILITIES
+### ⚡ TECHNICAL CAPABILITIES & TOOLING
 
 * 💻 **Backend & Core:**  
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
-* 🗄️ **Database & Systems:**  
+* 🗄️ **Databases & Systems:**  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 AT A GLANCE (LIVE METRICS & PERFORMANCE)
+### 📈 PERFORMANCE METRICS & REPOSITORY ACTIVITY
 
 <div align="center">
 
@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ <i>Profile analytics, project statuses, and activity distribution sync automatically via GitHub API.</i></sub>
+  <sub>⚡ <i>Architecture overview and execution metrics dynamically synced via GitHub.</i></sub>
 </div>
