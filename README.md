@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Badges -->
+<!-- Qualification & Readiness Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_M.Sc._IT_2026-1E293B?style=for-the-badge&labelColor=0F172A&color=6366F1" alt="M.Sc. IT 2026" />
   <img src="https://img.shields.io/badge/📄_IJRIAS_Published-1E293B?style=for-the-badge&labelColor=0F172A&color=38BDF8" alt="IJRIAS Published" />
   <img src="https://img.shields.io/badge/🇦🇪_UAE_Ready-1E293B?style=for-the-badge&labelColor=0F172A&color=10B981" alt="UAE Ready" />
 </p>
 
-<!-- Typing Subtitle -->
+<!-- Dynamic Subtitle Banner -->
 <a href="https://github.com/Sufiyanahmad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Architect+%7C+PHP+%26+Python;Smart+Contracts+%26+Blockchain+Verification;Enterprise+Ledger+%26+Operations+Engines" alt="Typing SVG" />
 </a>
@@ -16,41 +16,40 @@
 
 ---
 
-### 🌐 LIVE PROJECT DEMOS & PROTOTYPES
+### 📂 SYSTEM ARCHITECTURE & PROJECT REPOSITORY DIRECTORY
 
-> 💡 *Click below to launch instant frontend live previews & repo architectures:*
+> 📌 *Overview of core repositories, architecture classification, and build status:*
 
-| 📁 Project Name | 🛠️ Core Stack | 🔗 Instant Action |
-| :--- | :--- | :--- |
-| **SmartCertify** | `Solidity` `Web3` `Python` | [🚀 View Repository](https://github.com/Sufiyanahmad/SmartCertify) |
-| **RENTCOM** | `PHP` `MySQL` `JavaScript` | [🚀 View Repository](https://github.com/Sufiyanahmad/RENTCOM) |
-| **Ether-AI** | `Python` `AI / ML` | [🚀 View Repository](https://github.com/Sufiyanahmad/Ether-AI) |
-| **The-Ether** | `Blockchain` `Smart Contracts` | [🚀 View Repository](https://github.com/Sufiyanahmad/The-Ether) |
-| **Live UI Showcase** | `HTML5` `CSS3` `JavaScript` | [🌐 Launch Web Demo](https://sufiyanahmad.github.io/Sufiyanahmad/) |
+| 📁 Repository | 🏗️ Architecture / Domain | 🛠️ Tech Stack | 📊 Status | 🔗 Navigation |
+| :--- | :--- | :--- | :--- | :--- |
+| **SmartCertify** | Decentralized Certificate Verification | `Solidity` `Web3.py` `Python` | `Active / Research` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/SmartCertify) |
+| **RENTCOM** | Real Estate & Commercial Operations Engine | `PHP` `MySQL` `JavaScript` | `Production Ready` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/RENTCOM) |
+| **Ether-AI** | Intelligent Blockchain Agents & ML Pipeline | `Python` `AI/ML` `Data Models` | `Active Build` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/Ether-AI) |
+| **The-Ether** | EVM Protocols & Smart Contract Frameworks | `Solidity` `Ethereum` `Web3` | `Core Architecture` | [📂 Inspect Repo](https://github.com/Sufiyanahmad/The-Ether) |
 
 ---
 
-### ⚡ TECH STACK & TOOLS
+### ⚡ TECH STACK & CAPABILITIES
 
-* 💻 **Core Languages:**  
+* 💻 **Backend & Core:**  
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
-* 🗄️ **Databases & Storage:**  
+* 🗄️ **Database & Systems:**  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
-* ⛓️ **Blockchain & Web3:**  
+* ⛓️ **Decentralized Ledgers:**  
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3" />
 
-* 📊 **Operations & Analysis:**  
+* 📊 **Operations & Analytics:**  
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
 ---
 
-### 📊 AT A GLANCE (LIVE METRICS)
+### 📊 AT A GLANCE (LIVE METRICS & PERFORMANCE)
 
 <div align="center">
 
@@ -71,5 +70,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ <i>Profile analytics and project directories synced via GitHub Pages.</i></sub>
+  <sub>⚡ <i>Profile analytics, project statuses, and activity distribution sync automatically via GitHub API.</i></sub>
 </div>
